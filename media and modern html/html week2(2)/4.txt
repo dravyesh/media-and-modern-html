@@ -1,0 +1,12 @@
+
+Improving the accessibility of HTML involves implementing practices and features that make web content more usable for a diverse audience, including people with disabilities. 
+Here are three key ways to enhance HTML accessibility:
+
+
+1- Semantic HTML
+
+
+2- accesible HTML
+
+
+3- Provide Alternative Text for Images

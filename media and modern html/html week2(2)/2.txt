@@ -1,0 +1,18 @@
+
+Certainly! Here are five commonly used HTML entities:
+
+&lt; - Less than (<)
+
+Represents the less than symbol (<), commonly used in HTML tags.
+&gt; - Greater than (>)
+
+Represents the greater than symbol (>), commonly used in HTML tags.
+&amp; - Ampersand (&)
+
+Represents the ampersand symbol (&), used to start character entities and escape the actual ampersand in text.
+&quot; - Double quotation mark (")
+
+Represents the double quotation mark (") and is often used within HTML attributes.
+&apos; - Single quotation mark or apostrophe (')
+
+Represents the single quotation mark or apostrophe (') and is less commonly used compared to &quot;.

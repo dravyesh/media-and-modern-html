@@ -1,0 +1,22 @@
+
+Web accessibility refers to the practice of designing and developing websites and applications in a way that makes them inclusive and usable for everyone, including people with disabilities. Assistive devices play a crucial role in facilitating accessibility by providing alternative means of interaction for individuals with different abilities. Here are some assistive devices that play a major role in promoting web accessibility:
+
+1-Screen Readers:
+Definition: Screen readers are software applications that convert digital text into synthesized speech or Braille output. They allow individuals with visual impairments to access and navigate digital content.
+Examples: JAWS (Job Access With Speech), NVDA (NonVisual Desktop Access), VoiceOver.
+
+2-Braille Displays:
+Definition: Braille displays are hardware devices that output digital text in Braille format. Users can read the displayed Braille using their fingers. This is particularly useful for blind individuals.
+Examples: Refreshable Braille displays from various manufacturers.
+
+3-Screen Magnifiers:
+Definition: Screen magnifiers are software tools that allow users with low vision to zoom in on specific parts of the screen, making text and graphics larger and easier to see.
+Examples: ZoomText, Magnifier in Windows.
+
+4-Voice Recognition Software:
+Definition: Voice recognition software enables users to control a computer or interact with web content using spoken commands. This technology is beneficial for people with mobility impairments.
+Examples: Dragon NaturallySpeaking, Windows Speech Recognition.
+
+5-Alternative Keyboards and Input Devices:
+Definition: Alternative keyboards and input devices provide alternative methods of input for users with physical disabilities who may have difficulty using standard keyboards or mice.
+Examples: Adaptive keyboards, sip-and-puff devices, foot pedals.
